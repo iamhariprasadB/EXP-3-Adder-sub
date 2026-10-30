@@ -146,7 +146,9 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ### Output
 <img width="1192" height="620" alt="output" src="https://github.com/user-attachments/assets/6165dce1-5d28-413e-816c-c447969c62f6" />
+HALF ADDER:
 <img width="1852" height="927" alt="half_add_waveform" src="https://github.com/user-attachments/assets/0c10679a-935b-440f-97d4-fbfacf465da1" />
+HALF SUBTRACTOR:
 <img width="1787" height="945" alt="half_sub_waveform" src="https://github.com/user-attachments/assets/ca47b083-b1dc-4a28-8f6d-6c25309f4366" />
 
 
